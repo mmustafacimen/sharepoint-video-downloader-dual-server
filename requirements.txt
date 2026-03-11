@@ -1,2 +1,5 @@
-Flask
+fastapi
+uvicorn
 requests
+beautifulsoup4
+jinja2
